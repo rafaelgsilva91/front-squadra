@@ -1,0 +1,8 @@
+.bg-light {
+    padding: 30px 20px 30px 20px;
+    background: #010470 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff !important;
+}

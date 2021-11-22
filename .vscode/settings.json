@@ -1,0 +1,10 @@
+{
+  "eslint.codeAction.showDocumentation": {
+    "enable": false
+  },
+  "eslint.quiet": true,
+  "eslint.format.enable": false,
+  "editor.formatOnSave": false,
+  "prettier.enable": false,
+  "prettier.eslintIntegration": false
+}

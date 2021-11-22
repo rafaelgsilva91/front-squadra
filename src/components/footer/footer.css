@@ -1,0 +1,14 @@
+.main-footer {
+    background: #010470 !important;
+    height: 60px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-title {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+}

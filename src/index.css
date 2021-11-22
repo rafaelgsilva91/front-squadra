@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.lista {
+  list-style-type: none;
+}
+
+.bg-light {
+  background: #010470 !important;
+  padding: 30px 20px 30px 20px;
+}
